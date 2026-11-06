@@ -1,0 +1,9 @@
+{
+  "id": "pencil-ink",
+  "name": "Pencil Ink",
+  "version": "9.2.0",
+  "minAppVersion": "1.4.0",
+  "description": "Apple Pencil PDF annotation with Goodnotes-style library, page overview, blank pages, Quicknote, big-PDF streaming and Google Drive sync.",
+  "author": "You",
+  "isDesktopOnly": false
+}
